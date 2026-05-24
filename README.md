@@ -35,7 +35,7 @@
 
 면접관이 빠르게 볼 수 있도록 프로젝트별 README, 주요 코드/노트북, 공개 가능 문서만 정리했습니다.
 
-- `portfolio-projects`: curated project archive and interview-ready summaries
+- [portfolio-projects](https://github.com/tomato-party/portfolio-projects): curated project archive and interview-ready summaries
 
 ## Contact
 
