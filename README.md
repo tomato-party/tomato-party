@@ -1,4 +1,4 @@
-# Han Yuseung | Data Science & AI Portfolio
+# Han Youseung | Data Science & AI Portfolio
 
 안녕하세요. 데이터를 기반으로 문제를 정의하고, 모델링과 해석을 통해 실행 가능한 의사결정으로 연결하는 데이터/AI 프로젝트를 진행해 왔습니다.
 
@@ -8,7 +8,7 @@
 - 소방안전공모전 장려상
 - AI 트레이딩 대회 장려상
 - 산업경영학회 장려상
-- 포스터 논문 주저자
+- 산업재해 포스터 논문 주저자
 
 ## Focus Areas
 
