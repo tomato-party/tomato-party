@@ -13,9 +13,10 @@
 ## Focus Areas
 
 - Predictive Modeling: classification, regression, ensemble modeling, hyperparameter tuning
+- Optimization: location optimization, network redesign, public decision modeling
 - NLP: sentiment analysis, KoBART chatbot, malicious URL classification
 - Computer Vision: YOLO-based object detection, fire/smoking detection concepts
-- Public Data Analytics: location optimization, population density, safety, tourism and regional policy
+- Public Data Analytics: population density, safety, tourism, regional policy
 - Explainable AI: SHAP-based interpretation, model comparison, business-oriented reporting
 
 ## Featured Projects
@@ -23,12 +24,12 @@
 | Project | Summary | Main Stack |
 |---|---|---|
 | AI Trading Competition | Quant strategy and market prediction project prepared for an AI trading competition. | Python, ML, financial data |
+| Heatwave Shelter Network Optimization | Shelter network redesign and location optimization for heat-vulnerable areas. | Public data, optimization, policy analytics |
 | Fire Safety Prediction | Fire dispatch and damage-scale prediction for public safety decision support. | Python, LightGBM, scikit-learn |
 | Healthcare Mortality Prediction | 48-hour mortality prediction workflow using MIMIC-IV concepts with model comparison and interpretability. Public repo excludes restricted data. | Python, XGBoost, LightGBM, SHAP |
 | Real Estate Fraud Listing Classification | Classification model for identifying suspicious or false real estate listings. | Python, XGBoost, LightGBM, CatBoost |
 | Youth Facility Location Optimization | MCLP-based location optimization using public youth and commercial district data. | Python, Gurobi, geospatial analysis |
 | Business Success Probability Prediction | Dacon-style regression/modeling project for company success probability. | Python, CatBoost, RandomForest |
-| Jecheon Tourism/Data Competition | Regional tourism and cultural data analysis for Jecheon policy/business insights. | Python, public data analysis |
 | Malicious URL Classification | URL security classification project with competition-style train/test workflow. | Python, NLP/security ML |
 
 ## Portfolio Repository
